@@ -1,0 +1,23 @@
+This directory will contain book cover images.
+
+For now, you can:
+1. Add your own book cover images to this directory
+2. Name them according to the filenames in src/data/books.json
+3. Or update the book data to use placeholder images from a service like:
+   - https://covers.openlibrary.org/b/isbn/{ISBN}-L.jpg
+   - https://books.google.com/books/content?id={BOOK_ID}&printsec=frontcover&img=1&zoom=1
+
+Example filenames needed:
+- evelyn-hugo.jpg
+- project-hail-mary.jpg
+- midnight-library.jpg
+- circe.jpg
+- silent-patient.jpg
+- educated.jpg
+- klara-sun.jpg
+- addie-larue.jpg
+- dune.jpg
+- song-achilles.jpg
+- cerulean-sea.jpg
+- thursday-murder.jpg
+- piranesi.jpg
